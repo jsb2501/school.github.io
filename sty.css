@@ -37,3 +37,7 @@ footer {
     color: white;
     text-align: center;
 }
+
+input.txt {
+    font-size: 5em;
+}
