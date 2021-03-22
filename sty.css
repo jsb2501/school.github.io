@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+
+html {
+    font-family: 'Ranchers', cursive;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    background-color: darkslateblue;
+}
+
+header {
+    margin: 1px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body nav section {
+    margin: 1px;
+    border-style:groove;
+    border-color: black;
+    border-width: 2px;
+    padding: 5px;
+    min-height: 10em;
+    background-color:palevioletred;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    margin: 1px;
+    border-style:groove;
+    border-color: black;
+    border-width: 2px;
+    padding: 5px;
+    background-color:gray;
+    color: white;
+    text-align: center;
+}

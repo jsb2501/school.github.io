@@ -1,0 +1,10 @@
+.loginDetails {
+    background-color: cadetblue;
+}
+.loginForm div {
+    display: inline;
+}
+
+ul li {
+    display: inline-block;
+}
