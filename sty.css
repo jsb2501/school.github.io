@@ -2,6 +2,7 @@
 
 
 html {
+    max-width: 100%;
     font-family: 'Ranchers', cursive;
     word-spacing: 5px;
     letter-spacing: 1px;
